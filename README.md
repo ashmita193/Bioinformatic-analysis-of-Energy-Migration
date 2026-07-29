@@ -182,7 +182,7 @@ Recommended Execution Order
         │
         ▼
 9. heatmap.py
-10. 
+   
 Dependencies
 
 The scripts primarily use the following Python libraries:
